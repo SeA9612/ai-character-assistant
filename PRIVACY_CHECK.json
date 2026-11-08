@@ -1,0 +1,18 @@
+{
+  "release": "0.1.0",
+  "checkedFiles": 293,
+  "result": "passed",
+  "credentialsIncluded": false,
+  "developerAccountIncluded": false,
+  "conversationHistoryIncluded": false,
+  "screenshotsOrRecordingsIncluded": false,
+  "runtimeOrDependencyCachesIncluded": false,
+  "checks": [
+    "allowlisted files only",
+    "private file paths",
+    "local username and absolute user paths",
+    "consumer email addresses",
+    "common token and private-key patterns"
+  ],
+  "note": "Automated packaging checks, not a guarantee about all possible sensitive data. Third-party copyright notices preserved."
+}
